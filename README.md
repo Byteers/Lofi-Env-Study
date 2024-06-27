@@ -115,7 +115,7 @@ lofi-music-web-app/
 
 ## 🌐 Live Demo
 
-Check out the live version of the app [here](https://your-live-demo-link.com).
+Check out the live version of the app [here](https://lofi-env-study.vercel.app/).
 
 ## 📄 License
 
@@ -129,7 +129,4 @@ For any inquiries or feedback, please contact Husain Mahudawala at [husain.m.off
 
 ### Made with ❤️ by Husain Mahudawala
 
-```
 
-Make sure to replace `https://your-live-demo-link.com` with the actual URL of your live web app.
-```
