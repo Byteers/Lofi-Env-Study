@@ -1,6 +1,3 @@
-Here's an enhanced and attractive README file for your LoFi Music Web App project. This version includes badges, images, and a more engaging presentation.
-
-````markdown
 # 🎵 LoFi Music Web App 🎵
 
 [![React](https://img.shields.io/badge/React-18.0.0-blue.svg)](https://reactjs.org/)
@@ -31,7 +28,6 @@ Welcome to the LoFi Music Web App! This project is a web application that allows
    git clone https://github.com/Byteers/Lofi-Env-Study.git
    cd lofi-Env-Study
    ```
-````
 
 2. **Install dependencies**:
 
@@ -117,13 +113,17 @@ lofi-music-web-app/
 4. **Push to the branch** (`git push origin feature-branch`).
 5. **Create a new Pull Request**.
 
+## 🌐 Live Demo
+
+Check out the live version of the app [here](https://your-live-demo-link.com).
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
-For any inquiries or feedback, please contact Husain Mahudawala at [your-email@example.com].
+For any inquiries or feedback, please contact Husain Mahudawala at [husain.m.offc@gmail.com].
 
 ---
 
@@ -131,4 +131,5 @@ For any inquiries or feedback, please contact Husain Mahudawala at [your-email@e
 
 ```
 
+Make sure to replace `https://your-live-demo-link.com` with the actual URL of your live web app.
 ```
