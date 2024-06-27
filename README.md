@@ -115,7 +115,7 @@ lofi-music-web-app/
 
 ## 🌐 Live Demo
 
-Check out the live version of the app [here](s(https://lofi-env-study.vercel.app/)).
+Check out the live version of the app [here](https://lofi-env-study.vercel.app/).
 
 ## 📄 License
 
