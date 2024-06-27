@@ -17,11 +17,7 @@ const About = () => {
             <i className="fab fa-linkedin"></i>
             <span>Linkedin</span>
           </a>
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href="https://github.com/Byteers/"
-          >
+          <a target="_blank" rel="noreferrer" href="https://github.com/Byteers">
             <i className="fab fa-github"></i>
             <span>GitHub</span>
           </a>
