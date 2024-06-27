@@ -129,6 +129,3 @@ For any inquiries or feedback, please contact Husain Mahudawala at [your-email@e
 
 ### Made with ❤️ by Husain Mahudawala
 
-```
-
-```
